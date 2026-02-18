@@ -22,17 +22,13 @@ IC= x̄ ± tα/2 ⋅ s/√n
 
 ​
 Resultados e Interpretación
+
 El análisis, desarrollado en Python, arrojó un intervalo de confianza al 95% de [128.52 USD - 136.48 USD].
 Interpretación: Existe un 95% de confianza en que el gasto promedio de todos los clientes frecuentes de la cadena se encuentra dentro de este rango.
 Comparación (Plus +): Se incluyó un cálculo al 99% de confianza para analizar cómo la precisión disminuye al aumentar la certeza del intervalo.
 
 Recomendaciones para la Gerencia
+
 Basado en estos hallazgos, se recomienda a la cadena de supermercados:
 Fijación de Umbrales: Diseñar programas de recompensas con un ticket mínimo cercano a 128 USD, asegurando que sean alcanzables para el promedio real de clientes.
 Proyecciones: Utilizar el límite inferior de 128.52 USD para estimaciones conservadoras de flujo de caja semanal.
-
-
-
-En la sección "About" (en la página principal de tu repositorio a la derecha), pon esta descripción corta:
-
-"Estimación de gasto promedio mediante intervalos de confianza y distribución t-Student para DataNova. Proyecto de inferencia estadística con Python."
