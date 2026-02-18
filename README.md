@@ -1,4 +1,5 @@
 Análisis de Gasto Semanal - DataNova 
+
 Este proyecto forma parte de un análisis de consultoría para una cadena de supermercados interesada en entender el comportamiento de gasto de sus clientes frecuentes.
 
 Descripción del Caso
