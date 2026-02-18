@@ -18,6 +18,8 @@ Grados de Libertad: 59 (n−1).
 
 La fórmula utilizada es:
 IC= x̄ ± tα/2 ⋅ s/√n
+
+
 ​
 Resultados e Interpretación
 El análisis, desarrollado en Python, arrojó un intervalo de confianza al 95% de [128.52 USD - 136.48 USD].
